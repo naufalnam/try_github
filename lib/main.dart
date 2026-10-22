@@ -29,7 +29,7 @@ class CommunityPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Padding(
-        padding: const EdgeInsets.fromLTRB(17, 4, 14, 4),
+        padding: const EdgeInsets.fromLTRB(18, 4, 14, 4),
         child: Container(
           width: double.infinity,
           decoration: BoxDecoration(
